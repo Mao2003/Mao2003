@@ -1,4 +1,4 @@
-University Rank,Name of University,Location,No of student,No of student per staff,International Student,Teaching Score,Research Score,Citations Score,Industry Income Score,International Outlook Score
+University_rank,Name_of_University,Location,Num_of_student,nos_per_staff,International_student,Teaching_Score,Research_Score,Citations_Score,Industry_Income_Score,International_Outlook_Score
 1,University of Oxford,United Kingdom,20965,10.6,42%,92.3,99.7,99,74.9,96.2
 2,Harvard University,United States,21887,9.6,25%,94.8,99,99.3,49.5,80.5
 3,University of Cambridge,United Kingdom,20185,11.3,39%,90.9,99.5,97,54.2,95.8
