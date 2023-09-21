@@ -2268,16 +2268,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-06-16,El Salvador,Saint Kitts and Nevis,4,1,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
 2015-06-16,Taiwan,Thailand,0,2,FIFA World Cup qualification,Taipei,Taiwan,FALSE
 2015-06-17,Brazil,Colombia,0,1,Copa América,Santiago,Chile,TRUE
-2015-06-17,Székely Land,County of Nice,2,3,CONIFA European Football Cup,Debrecen,Hungary,FALSE
+2015-06-17,Szekely Land,County of Nice,2,3,CONIFA European Football Cup,Debrecen,Hungary,FALSE
 2015-06-17,Padania,Romani people,3,2,CONIFA European Football Cup,Debrecen,Hungary,TRUE
 2015-06-18,Peru,Venezuela,1,0,Copa América,Valparaíso,Chile,TRUE
-2015-06-18,Székely Land,Felvidék,1,3,CONIFA European Football Cup,Debrecen,Hungary,FALSE
+2015-06-18,Szekely Land,Felvidék,1,3,CONIFA European Football Cup,Debrecen,Hungary,FALSE
 2015-06-18,Romani people,Ellan Vannin,1,3,CONIFA European Football Cup,Debrecen,Hungary,TRUE
 2015-06-19,Chile,Bolivia,5,0,Copa América,Santiago,Chile,FALSE
 2015-06-19,Mexico,Ecuador,1,2,Copa América,Rancagua,Chile,TRUE
 2015-06-19,Felvidék,County of Nice,1,4,CONIFA European Football Cup,Debrecen,Hungary,TRUE
 2015-06-19,Padania,Ellan Vannin,1,0,CONIFA European Football Cup,Debrecen,Hungary,TRUE
-2015-06-19,Székely Land,Romani people,2,4,CONIFA European Football Cup,Debrecen,Hungary,FALSE
+2015-06-19,Szekely Land,Romani people,2,4,CONIFA European Football Cup,Debrecen,Hungary,FALSE
 2015-06-20,Argentina,Jamaica,1,0,Copa América,Viña del Mar,Chile,TRUE
 2015-06-20,Mozambique,Seychelles,5,1,African Nations Championship,Beira,Mozambique,FALSE
 2015-06-20,Senegal,Gambia,3,1,African Nations Championship,Dakar,Senegal,FALSE
@@ -3150,14 +3150,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-05-29,Tahiti,Samoa,4,0,Oceania Nations Cup,Port Moresby,Papua New Guinea,TRUE
 2016-05-29,Turkey,Montenegro,1,0,Friendly,Antalya,Turkey,FALSE
 2016-05-29,Abkhazia,Chagos Islands,9,0,CONIFA World Football Cup,Sukhumi,Georgia,FALSE
-2016-05-29,Iraqi Kurdistan,Székely Land,3,0,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
+2016-05-29,Iraqi Kurdistan,Szekely Land,3,0,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
 2016-05-29,Padania,Northern Cyprus,1,2,CONIFA World Football Cup,Gagra,Georgia,TRUE
 2016-05-29,Sápmi,Somaliland,5,0,CONIFA World Football Cup,Gagra,Georgia,TRUE
 2016-05-30,France,Cameroon,3,2,Friendly,Nantes,France,FALSE
 2016-05-30,Gambia,Zambia,0,0,Friendly,Bakau,Gambia,FALSE
 2016-05-30,Sweden,Slovenia,0,0,Friendly,Malmö,Sweden,FALSE
 2016-05-30,Chagos Islands,Western Armenia,0,12,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
-2016-05-30,United Koreans in Japan,Székely Land,1,0,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
+2016-05-30,United Koreans in Japan,Szekely Land,1,0,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
 2016-05-30,Raetia,Padania,0,6,CONIFA World Football Cup,Gagra,Georgia,TRUE
 2016-05-30,Sápmi,Panjab,0,1,CONIFA World Football Cup,Gagra,Georgia,TRUE
 2016-05-31,Austria,Malta,2,1,Friendly,Klagenfurt,Austria,FALSE
@@ -3199,7 +3199,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-06-02,Iraqi Kurdistan,Padania,2,2,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
 2016-06-02,Western Armenia,Panjab,2,3,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
 2016-06-02,Chagos Islands,Somaliland,2,3,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
-2016-06-02,Székely Land,Raetia,7,0,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
+2016-06-02,Szekely Land,Raetia,7,0,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
 2016-06-03,Albania,Ukraine,1,3,Friendly,Bergamo,Italy,TRUE
 2016-06-03,Azerbaijan,Canada,1,1,Friendly,Rohrbach an der Lafnitz,Austria,TRUE
 2016-06-03,Bosnia and Herzegovina,Denmark,2,2,Kirin Cup,Toyota,Japan,TRUE
@@ -3220,7 +3220,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-06-03,United Koreans in Japan,Sápmi,1,2,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
 2016-06-03,Iraqi Kurdistan,Western Armenia,0,0,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
 2016-06-03,Chagos Islands,Raetia,3,3,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
-2016-06-03,Somaliland,Székely Land,7,0,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
+2016-06-03,Somaliland,Szekely Land,7,0,CONIFA World Football Cup,Sukhumi,Georgia,TRUE
 2016-06-04,Australia,Greece,1,0,Friendly,Sydney,Australia,FALSE
 2016-06-04,Austria,Netherlands,0,2,Friendly,Vienna,Austria,FALSE
 2016-06-04,Botswana,Uganda,1,2,African Cup of Nations qualification,Francistown,Botswana,FALSE
@@ -4059,7 +4059,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-06-05,Senegal,Uganda,0,0,Friendly,Dakar,Senegal,FALSE
 2017-06-05,Abkhazia,South Ossetia,2,1,CONIFA European Football Cup,Kyrenia,Northern Cyprus,TRUE
 2017-06-05,Padania,Ellan Vannin,1,0,CONIFA European Football Cup,Morphou,Northern Cyprus,TRUE
-2017-06-05,Felvidék,Székely Land,1,0,CONIFA European Football Cup,Famagusta,Northern Cyprus,TRUE
+2017-06-05,Felvidék,Szekely Land,1,0,CONIFA European Football Cup,Famagusta,Northern Cyprus,TRUE
 2017-06-06,Afghanistan,Maldives,2,1,Friendly,Dubai,United Arab Emirates,TRUE
 2017-06-06,Algeria,Guinea,2,1,Friendly,Blida,Algeria,FALSE
 2017-06-06,Bahrain,Palestine,0,2,Friendly,Riffa,Bahrain,FALSE
@@ -4071,7 +4071,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-06-06,Uzbekistan,Thailand,2,0,Friendly,Tashkent,Uzbekistan,FALSE
 2017-06-06,Northern Cyprus,South Ossetia,8,0,CONIFA European Football Cup,Kyrenia,Northern Cyprus,FALSE
 2017-06-06,Kárpátalja,Abkhazia,2,2,CONIFA European Football Cup,Nicosia,Northern Cyprus,TRUE
-2017-06-06,Székely Land,Padania,1,1,CONIFA European Football Cup,Famagusta,Northern Cyprus,TRUE
+2017-06-06,Szekely Land,Padania,1,1,CONIFA European Football Cup,Famagusta,Northern Cyprus,TRUE
 2017-06-06,Ellan Vannin,Felvidék,1,0,CONIFA European Football Cup,Morphou,Northern Cyprus,TRUE
 2017-06-07,Bolivia,Nicaragua,3,2,Friendly,Yacuiba,Bolivia,FALSE
 2017-06-07,China PR,Philippines,8,1,Friendly,Guangzhou,China PR,FALSE
@@ -4086,7 +4086,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-06-07,United Arab Emirates,Laos,4,0,Friendly,Shah Alam,Malaysia,TRUE
 2017-06-07,Northern Cyprus,Abkhazia,0,0,CONIFA European Football Cup,Morphou,Northern Cyprus,FALSE
 2017-06-07,South Ossetia,Kárpátalja,1,4,CONIFA European Football Cup,Famagusta,Northern Cyprus,TRUE
-2017-06-07,Ellan Vannin,Székely Land,2,4,CONIFA European Football Cup,Kyrenia,Northern Cyprus,TRUE
+2017-06-07,Ellan Vannin,Szekely Land,2,4,CONIFA European Football Cup,Kyrenia,Northern Cyprus,TRUE
 2017-06-07,Padania,Felvidék,2,0,CONIFA European Football Cup,Nicosia,Northern Cyprus,TRUE
 2017-06-08,Australia,Saudi Arabia,3,2,FIFA World Cup qualification,Adelaide,Australia,FALSE
 2017-06-08,Cambodia,Indonesia,0,2,Friendly,Phnom Penh,Cambodia,FALSE
@@ -4111,7 +4111,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-06-09,Sweden,France,2,1,FIFA World Cup qualification,Solna,Sweden,FALSE
 2017-06-09,South Ossetia,Felvidék,0,2,CONIFA European Football Cup,Famagusta,Northern Cyprus,TRUE
 2017-06-09,Kárpátalja,Ellan Vannin,3,3,CONIFA European Football Cup,Morphou,Northern Cyprus,TRUE
-2017-06-09,Northern Cyprus,Székely Land,2,1,CONIFA European Football Cup,Nicosia,Northern Cyprus,FALSE
+2017-06-09,Northern Cyprus,Szekely Land,2,1,CONIFA European Football Cup,Nicosia,Northern Cyprus,FALSE
 2017-06-09,Padania,Abkhazia,0,0,CONIFA European Football Cup,Kyrenia,Northern Cyprus,TRUE
 2017-06-10,Azerbaijan,Northern Ireland,0,1,FIFA World Cup qualification,Baku,Azerbaijan,FALSE
 2017-06-10,Burkina Faso,Angola,3,1,African Cup of Nations qualification,Ouagadougou,Burkina Faso,FALSE
@@ -4138,7 +4138,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-06-10,Slovenia,Malta,2,0,FIFA World Cup qualification,Ljubljana,Slovenia,FALSE
 2017-06-10,Tanzania,Lesotho,1,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,FALSE
 2017-06-10,Zambia,Mozambique,0,1,African Cup of Nations qualification,Ndola,Zambia,FALSE
-2017-06-10,Székely Land,Abkhazia,3,1,CONIFA European Football Cup,Kyrenia,Northern Cyprus,TRUE
+2017-06-10,Szekely Land,Abkhazia,3,1,CONIFA European Football Cup,Kyrenia,Northern Cyprus,TRUE
 2017-06-10,Northern Cyprus,Padania,1,1,CONIFA European Football Cup,Nicosia,Northern Cyprus,FALSE
 2017-06-11,Algeria,Togo,1,0,African Cup of Nations qualification,Blida,Algeria,FALSE
 2017-06-11,Benin,Gambia,1,0,African Cup of Nations qualification,Cotonou,Benin,FALSE
@@ -5016,7 +5016,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-05-31,Barawa,Tamil Eelam,4,0,CONIFA World Football Cup,Bromley,England,FALSE
 2018-05-31,Abkhazia,Tibet,3,0,CONIFA World Football Cup,Enfield,England,TRUE
 2018-05-31,Northern Cyprus,Kárpátalja,1,1,CONIFA World Football Cup,Enfield,England,TRUE
-2018-05-31,Székely Land,Tuvalu,4,0,CONIFA World Football Cup,Haringey,England,TRUE
+2018-05-31,Szekely Land,Tuvalu,4,0,CONIFA World Football Cup,Haringey,England,TRUE
 2018-05-31,Padania,Matabeleland,6,1,CONIFA World Football Cup,Sutton,England,TRUE
 2018-05-31,United Koreans in Japan,Western Armenia,0,0,CONIFA World Football Cup,Carshalton,England,TRUE
 2018-05-31,Panjab,Kabylia,8,0,CONIFA World Football Cup,Slough,England,TRUE
@@ -5049,7 +5049,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-02,Barawa,Cascadia,1,2,CONIFA World Football Cup,Carshalton,England,FALSE
 2018-06-02,Abkhazia,Kárpátalja,0,2,CONIFA World Football Cup,Enfield,England,TRUE
 2018-06-02,Northern Cyprus,Tibet,3,1,CONIFA World Football Cup,Enfield,England,TRUE
-2018-06-02,Székely Land,Matabeleland,5,0,CONIFA World Football Cup,Haringey,England,TRUE
+2018-06-02,Szekely Land,Matabeleland,5,0,CONIFA World Football Cup,Haringey,England,TRUE
 2018-06-02,Padania,Tuvalu,8,0,CONIFA World Football Cup,Haringey,England,TRUE
 2018-06-02,United Koreans in Japan,Kabylia,0,0,CONIFA World Football Cup,Bracknell,England,TRUE
 2018-06-02,Panjab,Western Armenia,0,1,CONIFA World Football Cup,Slough,England,TRUE
@@ -5066,7 +5066,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-03,Barawa,Ellan Vannin,2,0,CONIFA World Football Cup,Rotherhithe,England,FALSE
 2018-06-03,Abkhazia,Northern Cyprus,2,2,CONIFA World Football Cup,Enfield,England,TRUE
 2018-06-03,Kárpátalja,Tibet,5,1,CONIFA World Football Cup,Bracknell,England,TRUE
-2018-06-03,Padania,Székely Land,3,1,CONIFA World Football Cup,Bedfont,England,TRUE
+2018-06-03,Padania,Szekely Land,3,1,CONIFA World Football Cup,Bedfont,England,TRUE
 2018-06-03,Tuvalu,Matabeleland,1,3,CONIFA World Football Cup,Haringey,England,TRUE
 2018-06-03,Panjab,United Koreans in Japan,1,1,CONIFA World Football Cup,Slough,England,TRUE
 2018-06-03,Western Armenia,Kabylia,4,0,CONIFA World Football Cup,Enfield,England,TRUE
@@ -5090,7 +5090,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-05,Barawa,Northern Cyprus,0,8,CONIFA World Football Cup,Sutton,England,FALSE
 2018-06-05,Padania,Panjab,2,0,CONIFA World Football Cup,Bracknell,England,TRUE
 2018-06-05,Kárpátalja,Cascadia,3,1,CONIFA World Football Cup,Sutton,England,TRUE
-2018-06-05,Western Armenia,Székely Land,0,4,CONIFA World Football Cup,Bromley,England,TRUE
+2018-06-05,Western Armenia,Szekely Land,0,4,CONIFA World Football Cup,Bromley,England,TRUE
 2018-06-06,Norway,Panama,1,0,Friendly,Oslo,Norway,FALSE
 2018-06-06,Czech Republic,Nigeria,1,0,Friendly,Schwechat,Austria,TRUE
 2018-06-06,Belgium,Egypt,3,0,Friendly,Brussels,Belgium,FALSE
@@ -5110,7 +5110,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-07,Barawa,Panjab,0,5,CONIFA World Football Cup,Sutton,England,FALSE
 2018-06-07,Cascadia,Western Armenia,4,0,CONIFA World Football Cup,Bromley,England,TRUE
 2018-06-07,Northern Cyprus,Padania,3,2,CONIFA World Football Cup,Carshalton,England,TRUE
-2018-06-07,Kárpátalja,Székely Land,4,2,CONIFA World Football Cup,Carshalton,England,TRUE
+2018-06-07,Kárpátalja,Szekely Land,4,2,CONIFA World Football Cup,Carshalton,England,TRUE
 2018-06-08,Germany,Saudi Arabia,2,1,Friendly,Leverkusen,Germany,FALSE
 2018-06-08,Croatia,Senegal,2,1,Friendly,Osijek,Croatia,FALSE
 2018-06-08,Switzerland,Japan,2,0,Friendly,Lugano,Switzerland,FALSE
@@ -5134,7 +5134,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-09,Kabylia,Abkhazia,0,2,CONIFA World Football Cup,Aveley,England,TRUE
 2018-06-09,Barawa,Western Armenia,0,7,CONIFA World Football Cup,Haringey,England,FALSE
 2018-06-09,Panjab,Cascadia,3,3,CONIFA World Football Cup,Rotherhithe,England,TRUE
-2018-06-09,Padania,Székely Land,0,0,CONIFA World Football Cup,Enfield,England,TRUE
+2018-06-09,Padania,Szekely Land,0,0,CONIFA World Football Cup,Enfield,England,TRUE
 2018-06-09,Northern Cyprus,Kárpátalja,0,0,CONIFA World Football Cup,Enfield,England,TRUE
 2018-06-10,Austria,Brazil,0,3,Friendly,Vienna,Austria,FALSE
 2018-06-10,India,Kenya,2,0,Intercontinental Cup,Mumbai,India,FALSE
@@ -5902,19 +5902,19 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-02,Turkey,Uzbekistan,0,0,Friendly,Alanya,Turkey,FALSE
 2019-06-02,Abkhazia,Chameria,3,1,CONIFA European Football Cup,Askeran,Azerbaijan,TRUE
 2019-06-02,Artsakh,Sápmi,3,2,CONIFA European Football Cup,Stepanakert,Azerbaijan,FALSE
-2019-06-02,Padania,Székely Land,4,0,CONIFA European Football Cup,Martakert,Azerbaijan,TRUE
+2019-06-02,Padania,Szekely Land,4,0,CONIFA European Football Cup,Martakert,Azerbaijan,TRUE
 2019-06-02,Western Armenia,South Ossetia,1,2,CONIFA European Football Cup,Martuni,Azerbaijan,TRUE
 2019-06-02,Parishes of Jersey,Chagos Islands,9,2,Atlantic Heritage Cup,Harrogate,England,FALSE
 2019-06-03,Colombia,Panama,3,0,Friendly,Bogotá,Colombia,FALSE
 2019-06-03,Vanuatu,Tahiti,2,0,Friendly,Port Vila,Vanuatu,FALSE
 2019-06-03,Artsakh,Chameria,1,4,CONIFA European Football Cup,Martuni,Azerbaijan,FALSE
 2019-06-03,Sápmi,Abkhazia,0,1,CONIFA European Football Cup,Martakert,Azerbaijan,TRUE
-2019-06-03,Székely Land,Western Armenia,0,5,CONIFA European Football Cup,Askeran,Azerbaijan,TRUE
+2019-06-03,Szekely Land,Western Armenia,0,5,CONIFA European Football Cup,Askeran,Azerbaijan,TRUE
 2019-06-03,South Ossetia,Padania,2,1,CONIFA European Football Cup,Stepanakert,Azerbaijan,TRUE
 2019-06-04,Comoros,Malawi,1,2,COSAFA Cup,Durban,South Africa,TRUE
 2019-06-04,Artsakh,Abkhazia,1,1,CONIFA European Football Cup,Martuni,Azerbaijan,FALSE
 2019-06-04,Chameria,Sápmi,4,0,CONIFA European Football Cup,Martakert,Azerbaijan,TRUE
-2019-06-04,South Ossetia,Székely Land,2,2,CONIFA European Football Cup,Askeran,Azerbaijan,TRUE
+2019-06-04,South Ossetia,Szekely Land,2,2,CONIFA European Football Cup,Askeran,Azerbaijan,TRUE
 2019-06-04,Padania,Western Armenia,1,1,CONIFA European Football Cup,Stepanakert,Azerbaijan,TRUE
 2019-06-04,South Africa,Uganda,1,1,COSAFA Cup,Durban,South Africa,FALSE
 2019-06-05,Lesotho,Botswana,1,2,COSAFA Cup,Durban,South Africa,TRUE
@@ -5936,7 +5936,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-06,Abkhazia,Western Armenia,1,1,CONIFA European Football Cup,Stepanakert,Azerbaijan,TRUE
 2019-06-06,South Ossetia,Chameria,0,0,CONIFA European Football Cup,Askeran,Azerbaijan,TRUE
 2019-06-06,Padania,Sápmi,4,0,CONIFA European Football Cup,Martakert,Azerbaijan,TRUE
-2019-06-06,Artsakh,Székely Land,2,1,CONIFA European Football Cup,Martuni,Azerbaijan,FALSE
+2019-06-06,Artsakh,Szekely Land,2,1,CONIFA European Football Cup,Martuni,Azerbaijan,FALSE
 2019-06-06,Bhutan,Guam,1,0,FIFA World Cup qualification,Thimphu,Bhutan,FALSE
 2019-06-06,Cambodia,Pakistan,2,0,FIFA World Cup qualification,Phnom Penh,Cambodia,FALSE
 2019-06-06,Laos,Bangladesh,0,1,FIFA World Cup qualification,Vientiane,Laos,FALSE
@@ -5984,7 +5984,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-08,Nigeria,Zimbabwe,0,0,Friendly,Asaba,Nigeria,FALSE
 2019-06-08,Singapore,Solomon Islands,4,3,Friendly,Kallang,Singapore,FALSE
 2019-06-08,Abkhazia,Chameria,0,0,CONIFA European Football Cup,Stepanakert,Azerbaijan,TRUE
-2019-06-08,Sápmi,Székely Land,3,2,CONIFA European Football Cup,Askeran,Azerbaijan,TRUE
+2019-06-08,Sápmi,Szekely Land,3,2,CONIFA European Football Cup,Askeran,Azerbaijan,TRUE
 2019-06-08,Artsakh,Padania,2,0,CONIFA European Football Cup,Stepanakert,Azerbaijan,FALSE
 2019-06-09,Brazil,Honduras,7,0,Friendly,Porto Alegre,Brazil,FALSE
 2019-06-09,Cameroon,Zambia,2,1,Friendly,Majadahonda,Cameroon,FALSE
@@ -9518,7 +9518,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-06-28,United States,Saint Kitts and Nevis,6,0,Gold Cup,St. Louis,United States,FALSE
 2023-06-29,Qatar,Honduras,1,1,Gold Cup,Glendale,United States,TRUE
 2023-06-29,Haiti,Mexico,1,3,Gold Cup,Glendale,United States,TRUE
-2023-06-30,Székely Land,Chameria,3,2,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,FALSE
+2023-06-30,Szekely Land,Chameria,3,2,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,FALSE
 2023-06-30,Martinique,Panama,1,2,Gold Cup,Harrison,United States,TRUE
 2023-06-30,El Salvador,Costa Rica,0,0,Gold Cup,Harrison,United States,TRUE
 2023-07-01,Chameria,Two Sicilies,3,1,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,TRUE
@@ -9526,7 +9526,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-07-01,Kuwait,Bangladesh,1,0,SAFF Cup,Bengaluru,India,TRUE
 2023-07-01,Cuba,Guadeloupe,1,4,Gold Cup,Houston,United States,TRUE
 2023-07-01,Guatemala,Canada,0,0,Gold Cup,Houston,United States,TRUE
-2023-07-02,Székely Land,Two Sicilies,7,0,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,FALSE
+2023-07-02,Szekely Land,Two Sicilies,7,0,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,FALSE
 2023-07-02,United States,Trinidad and Tobago,6,0,Gold Cup,Charlotte,United States,FALSE
 2023-07-02,Jamaica,Saint Kitts and Nevis,5,0,Gold Cup,Santa Clara,United States,TRUE
 2023-07-02,Honduras,Haiti,2,1,Gold Cup,Charlotte,United States,TRUE
