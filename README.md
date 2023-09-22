@@ -63,7 +63,6 @@
                 margin-top: 15px;
                 margin-bottom: 15px;
                 color:black;
-
             }
             .content p{
                 font-size: 25px;
