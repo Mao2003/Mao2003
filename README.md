@@ -56,7 +56,6 @@
                 margin-bottom: 15px;
                 margin-left: 4cm;
                 color:black;
-
             }
             .content h2 {
                 font-size: 60px;
