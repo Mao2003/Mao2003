@@ -4,10 +4,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" type="image/x-icon" href="https://mao-nek.000webhostapp.com/index.html/Nh%C3%B3m%202/logo.png">
         <style>
-            *{
-                padding: 0;
-                margin: 0;
-            }
             .background {
                 height: 100vh;
                 width: 100%;
